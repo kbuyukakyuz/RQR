@@ -13,12 +13,12 @@ fn print_qr(qr: &QR) {
 	}
 	println!();
 }
-fn do_basic_demo() {
+fn process() {
 	let text: &'static str = "Kerim Büyükakyüz";
 	let errcorlvl: QR_e = QR_e::Low;
 	let qr: QR = QR::encode_s(text, errcorlvl).unwrap();
 	print_qr(&qr);
 }
 pub fn main() {
-	do_basic_demo();
+	process();
 }
