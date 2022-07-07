@@ -6,8 +6,8 @@ Rapid QR Code Generator is the first generator of its kind. It compiles to nativ
 
 Example: 
 
-let text: &'static str = "Kerim Büyükakyüz - this is a string literal!";
-process()
+>let text: &'static str = "Kerim Büyükakyüz - this is a string literal!";
+>process()
 
 RQR: 
 
