@@ -9,6 +9,7 @@ Example:
 >let text: &'static str = "Kerim Büyükakyüz - this is a string literal!";
 >process()
 
+You can scan the QR Code to check the validity of the output
 RQR: 
 
 ![ex](https://user-images.githubusercontent.com/99087793/177833176-ecd3d71c-a0b4-4ce6-8d7f-3dcd622c3a13.png)
